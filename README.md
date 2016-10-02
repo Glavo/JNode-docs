@@ -3,7 +3,7 @@
 * 任何Java应用将能在JNode上使用。  
 * JNode是开源的，使用LGPL许可协议。  
 
- ([原文档](http://www.jnode.org/docs))
+ [原文档](http://www.jnode.org/docs)
 
 ---
 * [目标](目标.md)
