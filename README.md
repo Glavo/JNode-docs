@@ -1,3 +1,6 @@
-# My Awesome Book
+# 目标 # 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Jnode是一个用Java设计实现的新的操作系统。
+
+我们的目标是创造一个易于个人用户安装使用的Java操作系统。使任何Java应用都能快速安全地运行在上面。
+
